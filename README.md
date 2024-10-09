@@ -11,10 +11,10 @@ Introduction to HTML<br>
 Overview of HTML (History, Purpose, and Importance)<br>
 Basic Structure of an HTML Document<br>
 Commonly Used Tags<br>
-HTML Elements and Attributes<br>
+HTML Elements and Attributes <br>
 
-Comprehensive List of HTML Elements<br>
-Block-level Elements (e.g., <div>, <h1>, <p>)<br>
+Comprehensive List of HTML Elements <br>
+Block-level Elements (e.g., <div>, <h1>, <p>) <br>
 Inline Elements (e.g., <span>, <a>, <strong>)<br>
 List Elements (e.g., <ul>, <ol>, <li>)<br>
 Table Elements (e.g., <table>, <tr>, <td>)<br>
